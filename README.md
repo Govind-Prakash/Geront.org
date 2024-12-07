@@ -1,5 +1,5 @@
 <a href="https://geront.org">
-  <img width="100%" src="https://github.com/Govind-Prakash/Govind-Prakash/blob/main/Images/geront.org.png?raw=true">
+  <img width="100%" src="https://github.com/Govind-Prakash/Govind-Prakash/blob/main/Images/Geront%20Banner.jpg?raw=true">
 </a>
 <Br>
 # Geront.org
